@@ -1,3 +1,4 @@
+# created by Timothy Kivumbi
 # Pixel Art Maker Project
 
 ## Table of Contents
